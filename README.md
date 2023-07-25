@@ -1,2 +1,2 @@
 # movers
-admin dashboard
+Web admin dashboard for a moving company 
